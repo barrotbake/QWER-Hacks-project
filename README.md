@@ -1,4 +1,4 @@
-#NoteSnap(QWERHACKS 2020 Best Overall Hack)
+# NoteSnap(QWERHACKS 2020 Best Overall Hack)
 
 Check out the offical Devpost submission at https://devpost.com/software/notesnap
 
